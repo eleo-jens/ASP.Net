@@ -1,0 +1,23 @@
+﻿@using Exo1_Route.Models.ViewModel;
+@model ProductIndexViewModel
+
+@{
+    ViewData["Title"] = "Shopping";
+}
+
+<h1>@ViewData["Title"], faîtes votre choix!</h1>
+
+@{
+    int count = Model.Products.Count;
+}
+
+@if (count > 0)
+{
+    <ul>
+        @foreach (Product product in Model.Products)
+        {
+            <li>@product.Nom coute @product.Prix (stock disponible = @product.Stock)</li>
+        }
+        <li>Nombre de produit affiche = @count</li>
+    </ul>
+}

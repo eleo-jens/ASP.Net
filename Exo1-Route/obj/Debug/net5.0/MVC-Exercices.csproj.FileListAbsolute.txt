@@ -1,0 +1,8 @@
+C:\Users\e.stultjens\source\repos\FirstMVC\Exo1-Route\obj\Debug\net5.0\MVC-Exercices.csproj.AssemblyReference.cache
+C:\Users\e.stultjens\source\repos\FirstMVC\Exo1-Route\obj\Debug\net5.0\MVC-Exercices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.stultjens\source\repos\FirstMVC\Exo1-Route\obj\Debug\net5.0\MVC-Exercices.AssemblyInfoInputs.cache
+C:\Users\e.stultjens\source\repos\FirstMVC\Exo1-Route\obj\Debug\net5.0\MVC-Exercices.AssemblyInfo.cs
+C:\Users\e.stultjens\source\repos\FirstMVC\Exo1-Route\obj\Debug\net5.0\MVC-Exercices.csproj.CoreCompileInputs.cache
+C:\Users\e.stultjens\source\repos\FirstMVC\Exo1-Route\obj\Debug\net5.0\MVC-Exercices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\e.stultjens\source\repos\FirstMVC\Exo1-Route\obj\Debug\net5.0\MVC-Exercices.RazorAssemblyInfo.cache
+C:\Users\e.stultjens\source\repos\FirstMVC\Exo1-Route\obj\Debug\net5.0\MVC-Exercices.RazorAssemblyInfo.cs

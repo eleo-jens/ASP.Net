@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstMVC", "FirstMVC\FirstMVC.csproj", "{B39C7B26-ABB0-4175-AA8D-F1A4D5241A24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo1-Route", "Exo1-Route\Exo1-Route.csproj", "{05796033-5554-4849-9F58-34D2A9240BBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39C7B26-ABB0-4175-AA8D-F1A4D5241A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39C7B26-ABB0-4175-AA8D-F1A4D5241A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39C7B26-ABB0-4175-AA8D-F1A4D5241A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39C7B26-ABB0-4175-AA8D-F1A4D5241A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05796033-5554-4849-9F58-34D2A9240BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05796033-5554-4849-9F58-34D2A9240BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05796033-5554-4849-9F58-34D2A9240BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05796033-5554-4849-9F58-34D2A9240BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76890EA3-5C75-44D7-80A6-2F78C44E440A}
+	EndGlobalSection
+EndGlobal

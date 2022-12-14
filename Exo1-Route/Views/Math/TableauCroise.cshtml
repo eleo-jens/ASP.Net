@@ -1,0 +1,26 @@
+﻿<body>
+
+    @{
+        void createTable(int size)
+        {
+            <table>
+                <tbody>
+                    @for (int i = 1; i < size; i++)
+                    {
+                        <tr>
+                            @for (int j = 1; j < size; j++)
+                            {
+                                <td width="50" height="50" style="border: 1px solid black;" align="center">@(i*j)</td>
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    }
+
+    <h1>Table de multiplication</h1>
+
+    @{createTable(25);}
+
+</body>
